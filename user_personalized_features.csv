@@ -1,0 +1,796 @@
+Name,User_ID,Age,Gender,Location,Income,Interests,Total_Spending,Product_Category_Preference,Time_Spent_on_Site_Minutes
+Vikram Singh,#1,56,Male,Suburban,38037,Sports,2546,Books,584
+Karan Iyer,#2,46,Female,Rural,103986,Technology,320,Electronics,432
+Anil Chauhan,#3,32,Female,Suburban,101942,Sports,3766,Apparel,306
+Krishna Bansal,#4,60,Female,Suburban,71612,Fashion,4377,Apparel,527
+Shreya Chauhan,#5,25,Male,Suburban,49725,Travel,4502,Health & Beauty,53
+Aarti Bansal,#6,38,Male,Suburban,25926,Travel,2669,Books,520
+Sunita Patel,#7,56,Male,Urban,124555,Fashion,1113,Home & Kitchen,330
+Shreya Mehta,#8,36,Male,Urban,29496,Technology,2151,Apparel,558
+Arjun Iyer,#9,40,Male,Rural,76447,Travel,4085,Books,325
+Isha Chauhan,#10,28,Male,Urban,121604,Food,4999,Electronics,114
+Vivaan Reddy,#11,28,Male,Urban,49806,Travel,4410,Health & Beauty,147
+Rohan Mehta,#12,41,Male,Rural,108199,Food,3119,Electronics,166
+Vikram Das,#13,53,Female,Rural,61321,Fashion,3781,Apparel,379
+Nikhil Joshi,#14,57,Female,Rural,142041,Fashion,1543,Apparel,139
+Kritika Naidu,#15,41,Male,Urban,122031,Travel,4296,Electronics,299
+Neha Bansal,#16,20,Male,Urban,85095,Sports,3110,Apparel,276
+Arjun Reddy,#17,39,Female,Rural,42656,Food,672,Books,178
+Nisha Joshi,#18,19,Male,Suburban,75147,Technology,1432,Apparel,354
+Karan Das,#19,41,Male,Rural,111396,Travel,4853,Health & Beauty,154
+Raj Pandey,#20,61,Male,Suburban,69666,Technology,4102,Books,201
+Radha Rao,#21,47,Female,Suburban,102368,Travel,3234,Home & Kitchen,115
+Nisha Ghosh,#22,55,Female,Rural,58787,Sports,4186,Apparel,554
+Vikram Sharma,#23,19,Female,Rural,133767,Sports,325,Apparel,68
+Suresh Chowdhury,#24,38,Female,Rural,82946,Sports,4300,Health & Beauty,445
+Anil Singh,#25,50,Female,Urban,41727,Sports,2097,Health & Beauty,445
+Sneha Rao,#26,29,Male,Suburban,128351,Fashion,871,Electronics,326
+Arjun Iyer,#27,39,Female,Urban,115081,Fashion,4624,Electronics,359
+Kavya Patel,#28,61,Male,Urban,142721,Food,533,Electronics,145
+Kavya Mehta,#29,42,Male,Rural,130058,Technology,3199,Health & Beauty,275
+Pooja Verma,#30,44,Female,Urban,88056,Travel,2829,Electronics,509
+Aarav Mishra,#31,59,Female,Rural,23081,Travel,3507,Electronics,179
+Aditya Iyer,#32,45,Male,Suburban,54196,Fashion,3240,Home & Kitchen,477
+Aanya Rao,#33,33,Male,Rural,56735,Travel,965,Electronics,414
+Deepa Nair,#34,32,Male,Urban,124749,Fashion,2893,Apparel,153
+Ankit Yadav,#35,64,Female,Urban,100102,Food,3011,Health & Beauty,104
+Aanya Mishra,#36,61,Female,Rural,99578,Technology,2515,Books,75
+Kritika Verma,#37,20,Female,Rural,45498,Food,350,Home & Kitchen,128
+Shreya Das,#38,54,Female,Urban,96865,Sports,3857,Health & Beauty,568
+Riya Chowdhury,#39,24,Female,Suburban,51656,Sports,4756,Health & Beauty,345
+Karan Naidu,#40,38,Male,Suburban,87695,Sports,1018,Apparel,531
+Arjun Singh,#41,26,Female,Rural,57900,Food,1273,Electronics,159
+Vihaan Patel,#42,56,Male,Suburban,148392,Travel,3303,Apparel,538
+Deepa Mishra,#43,35,Male,Urban,137235,Technology,532,Electronics,426
+Anil Sharma,#44,21,Male,Rural,104899,Sports,935,Electronics,23
+Sai Singh,#45,42,Female,Urban,67701,Sports,2346,Health & Beauty,47
+Anil Das,#46,31,Female,Urban,128777,Sports,2362,Electronics,525
+Pooja Naidu,#47,26,Female,Suburban,39033,Technology,997,Home & Kitchen,144
+Rohan Yadav,#48,43,Male,Rural,143193,Sports,3732,Home & Kitchen,585
+Suresh Verma,#49,19,Male,Rural,30805,Technology,4667,Home & Kitchen,589
+Aarav Pandey,#50,37,Male,Suburban,55851,Sports,3915,Health & Beauty,419
+Ananya Mishra,#51,45,Male,Urban,46832,Food,346,Apparel,85
+Neha Bansal,#52,64,Male,Urban,83437,Food,2529,Books,416
+Pooja Bansal,#53,24,Male,Urban,135725,Technology,1090,Electronics,482
+Deepa Reddy,#54,61,Female,Urban,33944,Food,3410,Books,456
+Nisha Das,#55,25,Female,Rural,39873,Technology,1026,Apparel,297
+Vivaan Kumar,#56,64,Female,Rural,60372,Food,3538,Apparel,112
+Neha Yadav,#57,52,Female,Suburban,109464,Food,2707,Health & Beauty,230
+Aarti Iyer,#58,31,Male,Suburban,35379,Technology,1174,Home & Kitchen,96
+Krishna Joshi,#59,34,Male,Rural,137322,Travel,4122,Home & Kitchen,378
+Nikhil Joshi,#60,53,Female,Rural,56751,Food,3899,Apparel,156
+Raj Nair,#61,57,Male,Urban,120082,Sports,4884,Health & Beauty,421
+Manish Chauhan,#62,21,Female,Urban,109822,Travel,3251,Health & Beauty,105
+Meera Ghosh,#63,19,Female,Suburban,25110,Technology,3538,Electronics,330
+Nisha Kumar,#64,23,Female,Rural,74341,Travel,4673,Home & Kitchen,439
+Yash Bansal,#65,59,Male,Suburban,32087,Fashion,3591,Apparel,132
+Sneha Nair,#66,21,Female,Rural,43762,Fashion,806,Books,382
+Vikram Chowdhury,#67,46,Female,Urban,135812,Food,3164,Home & Kitchen,138
+Aditya Joshi,#68,35,Female,Suburban,102617,Food,853,Electronics,270
+Anil Sharma,#69,43,Male,Suburban,120483,Sports,687,Health & Beauty,550
+Raj Iyer,#70,61,Male,Rural,29596,Travel,1434,Apparel,396
+Raj Das,#71,51,Female,Urban,123555,Fashion,1947,Home & Kitchen,557
+Ankit Ghosh,#72,27,Male,Suburban,127539,Food,4034,Books,464
+Raj Joshi,#73,53,Male,Urban,38313,Travel,4026,Electronics,450
+Saanvi Kumar,#74,31,Male,Suburban,133175,Food,3417,Electronics,331
+Saanvi Pandey,#75,48,Male,Urban,86549,Food,4120,Home & Kitchen,253
+Krishna Naidu,#76,32,Male,Rural,134914,Fashion,3255,Books,285
+Sneha Nair,#77,25,Male,Suburban,43705,Fashion,4402,Electronics,274
+Meera Mehta,#78,31,Male,Suburban,87364,Food,2298,Apparel,20
+Isha Chowdhury,#79,40,Male,Urban,93445,Technology,264,Electronics,239
+Kritika Ghosh,#80,57,Male,Urban,123892,Food,2098,Books,270
+Yash Reddy,#81,38,Male,Suburban,98645,Food,3157,Health & Beauty,418
+Nikhil Verma,#82,33,Female,Rural,22023,Sports,2184,Health & Beauty,310
+Krishna Sharma,#83,62,Female,Urban,139654,Sports,4528,Home & Kitchen,31
+Amit Das,#84,35,Male,Urban,79796,Sports,502,Books,104
+Rohan Singh,#85,64,Female,Urban,100073,Technology,513,Electronics,186
+Radha Verma,#86,41,Female,Suburban,112197,Technology,144,Electronics,128
+Aanya Iyer,#87,43,Male,Suburban,84429,Food,4257,Health & Beauty,210
+Vivaan Iyer,#88,42,Male,Suburban,124195,Sports,2567,Health & Beauty,414
+Kritika Chowdhury,#89,62,Male,Suburban,81627,Technology,967,Apparel,281
+Rahul Verma,#90,58,Female,Rural,53848,Fashion,118,Health & Beauty,253
+Siddharth Joshi,#91,46,Female,Rural,57804,Food,464,Apparel,19
+Neha Rao,#92,32,Male,Suburban,35379,Travel,3932,Electronics,136
+Radha Reddy,#93,62,Male,Rural,79664,Food,679,Apparel,223
+Ankit Chowdhury,#94,18,Male,Urban,47766,Travel,645,Apparel,3
+Karan Kumar,#95,42,Female,Urban,129126,Sports,4250,Home & Kitchen,236
+Krishna Bansal,#96,24,Female,Urban,88099,Travel,4973,Health & Beauty,465
+Shreya Chowdhury,#97,26,Female,Suburban,56060,Sports,3139,Apparel,228
+Neha Singh,#98,41,Female,Urban,114733,Fashion,4237,Electronics,499
+Nisha Iyer,#99,18,Male,Rural,89122,Travel,4144,Books,521
+Rohan Iyer,#100,61,Male,Suburban,36087,Food,4426,Apparel,139
+Vihaan Chauhan,#101,25,Male,Rural,68868,Sports,552,Health & Beauty,276
+Sneha Chowdhury,#102,41,Male,Urban,139119,Food,4061,Home & Kitchen,291
+Siddharth Verma,#103,28,Female,Urban,43225,Technology,1481,Electronics,53
+Arjun Chauhan,#104,34,Female,Urban,115286,Sports,1567,Home & Kitchen,110
+Isha Singh,#105,25,Male,Suburban,26643,Travel,2838,Books,4
+Yash Pandey,#106,52,Male,Rural,113059,Sports,1316,Apparel,47
+Sneha Chowdhury,#107,52,Female,Suburban,56727,Food,980,Apparel,94
+Aarav Mehta,#108,50,Male,Suburban,31005,Fashion,3914,Health & Beauty,560
+Raj Reddy,#109,22,Female,Urban,129079,Sports,3249,Apparel,213
+Aarti Kumar,#110,59,Male,Suburban,85697,Travel,184,Electronics,436
+Shreya Mishra,#111,56,Male,Suburban,36029,Technology,4244,Books,508
+Nikhil Kumar,#112,58,Male,Urban,135281,Fashion,1268,Home & Kitchen,205
+Rahul Joshi,#113,45,Male,Suburban,34226,Technology,4264,Books,381
+Isha Joshi,#114,24,Male,Urban,83646,Sports,3229,Apparel,73
+Kritika Nair,#115,26,Male,Urban,80603,Food,3745,Home & Kitchen,516
+Vikram Das,#116,25,Male,Urban,48731,Food,2626,Health & Beauty,76
+Saanvi Yadav,#117,29,Female,Urban,129458,Travel,2967,Books,77
+Shreya Chauhan,#118,51,Female,Suburban,130384,Food,3616,Home & Kitchen,410
+Riya Iyer,#119,50,Female,Urban,88926,Fashion,3467,Home & Kitchen,106
+Anil Ghosh,#120,40,Female,Urban,25997,Food,2294,Home & Kitchen,551
+Sneha Ghosh,#121,41,Female,Suburban,75506,Travel,3655,Electronics,476
+Kavya Nair,#122,54,Male,Suburban,98229,Sports,545,Books,275
+Vivaan Iyer,#123,52,Male,Rural,69815,Sports,3726,Home & Kitchen,88
+Meera Joshi,#124,61,Female,Suburban,62092,Food,4116,Books,77
+Deepa Mehta,#125,57,Male,Suburban,82539,Technology,3975,Home & Kitchen,77
+Meera Reddy,#126,39,Female,Rural,86077,Sports,3437,Health & Beauty,442
+Aanya Chowdhury,#127,44,Female,Suburban,41817,Food,361,Health & Beauty,540
+Ankit Chauhan,#128,52,Male,Suburban,57861,Travel,1948,Health & Beauty,245
+Vihaan Chauhan,#129,18,Male,Suburban,33428,Food,4125,Apparel,578
+Sneha Bansal,#130,52,Male,Suburban,63934,Sports,2366,Home & Kitchen,382
+Rahul Pandey,#131,54,Female,Rural,135555,Travel,191,Apparel,570
+Amit Mehta,#132,64,Male,Suburban,134367,Food,4322,Books,142
+Ananya Patel,#133,31,Female,Suburban,30258,Fashion,4275,Apparel,368
+Vihaan Iyer,#134,20,Female,Rural,77775,Travel,3409,Books,84
+Aarav Patel,#135,18,Female,Urban,101580,Fashion,1082,Books,143
+Sneha Ghosh,#136,22,Male,Rural,114947,Technology,3543,Books,352
+Aditya Das,#137,43,Male,Urban,25469,Travel,2633,Apparel,545
+Shreya Chowdhury,#138,31,Female,Rural,48854,Fashion,793,Home & Kitchen,152
+Kritika Iyer,#139,56,Male,Rural,26256,Sports,4220,Apparel,158
+Vivaan Mishra,#140,44,Male,Suburban,144086,Sports,255,Home & Kitchen,446
+Kavya Mishra,#141,26,Male,Urban,96256,Technology,3688,Home & Kitchen,303
+Riya Pandey,#142,32,Female,Suburban,53937,Travel,1912,Books,450
+Amit Joshi,#143,32,Female,Urban,119134,Travel,4214,Apparel,224
+Raj Chauhan,#144,43,Male,Rural,21651,Travel,1507,Home & Kitchen,43
+Arjun Yadav,#145,59,Female,Rural,70288,Technology,1316,Health & Beauty,264
+Aanya Das,#146,30,Male,Urban,104730,Travel,1510,Home & Kitchen,3
+Suresh Joshi,#147,49,Male,Suburban,45051,Sports,3597,Health & Beauty,268
+Karan Nair,#148,56,Male,Suburban,47386,Fashion,4472,Apparel,596
+Aarav Bansal,#149,49,Male,Suburban,95054,Sports,4940,Apparel,16
+Isha Chowdhury,#150,21,Female,Suburban,131562,Sports,651,Apparel,334
+Priya Mishra,#151,47,Female,Rural,36184,Fashion,3494,Home & Kitchen,464
+Kritika Mehta,#152,54,Female,Rural,53787,Sports,1276,Electronics,59
+Ananya Verma,#153,40,Male,Rural,41621,Technology,4834,Home & Kitchen,177
+Pooja Patel,#154,56,Male,Rural,95564,Fashion,4432,Home & Kitchen,63
+Aanya Das,#155,62,Male,Rural,97984,Sports,1097,Books,561
+Radha Verma,#156,32,Female,Suburban,79792,Food,4176,Books,307
+Ananya Yadav,#157,60,Male,Suburban,65253,Sports,2831,Home & Kitchen,246
+Sneha Naidu,#158,46,Female,Suburban,54051,Technology,4037,Health & Beauty,289
+Siddharth Yadav,#159,53,Female,Suburban,69811,Travel,4152,Books,332
+Yash Mishra,#160,30,Female,Rural,50447,Sports,472,Home & Kitchen,527
+Siddharth Chowdhury,#161,49,Female,Rural,148046,Travel,2348,Electronics,255
+Lakshmi Verma,#162,24,Female,Rural,103930,Food,948,Health & Beauty,510
+Karan Iyer,#163,39,Female,Urban,143278,Sports,2656,Apparel,463
+Karan Verma,#164,45,Male,Suburban,120037,Fashion,2422,Home & Kitchen,199
+Sunita Naidu,#165,19,Male,Suburban,50254,Travel,603,Home & Kitchen,271
+Manish Das,#166,59,Female,Rural,104045,Food,3289,Health & Beauty,558
+Deepa Sharma,#167,62,Female,Suburban,136859,Fashion,802,Books,64
+Siddharth Naidu,#168,23,Male,Suburban,77418,Fashion,3725,Books,230
+Anil Yadav,#169,45,Female,Rural,134534,Fashion,414,Books,249
+Krishna Mehta,#170,45,Female,Urban,34472,Fashion,2476,Apparel,246
+Deepa Patel,#171,61,Male,Urban,131193,Sports,1140,Health & Beauty,587
+Yash Rao,#172,61,Female,Urban,23471,Sports,4478,Health & Beauty,157
+Sai Mehta,#173,37,Female,Rural,127332,Sports,3090,Books,564
+Yash Pandey,#174,47,Female,Suburban,140312,Food,357,Books,88
+Pooja Ghosh,#175,28,Male,Rural,143379,Food,674,Electronics,313
+Arjun Das,#176,45,Male,Rural,115804,Food,4769,Electronics,66
+Aarav Singh,#177,42,Male,Suburban,28329,Technology,1652,Home & Kitchen,20
+Meera Ghosh,#178,56,Female,Urban,54865,Food,4618,Home & Kitchen,33
+Aanya Patel,#179,50,Female,Urban,66850,Sports,857,Health & Beauty,558
+Karan Chowdhury,#180,18,Male,Rural,74220,Sports,2910,Health & Beauty,73
+Arjun Mehta,#181,44,Female,Urban,132234,Technology,1204,Apparel,343
+Anil Naidu,#182,30,Female,Rural,113808,Technology,4624,Apparel,133
+Deepa Joshi,#183,58,Female,Rural,128381,Food,3559,Electronics,55
+Diya Chowdhury,#184,20,Female,Suburban,26397,Travel,4092,Home & Kitchen,61
+Riya Singh,#185,56,Female,Suburban,117909,Technology,303,Electronics,520
+Meera Verma,#186,23,Male,Suburban,149004,Fashion,2875,Electronics,272
+Vikram Rao,#187,25,Female,Rural,55525,Sports,2432,Home & Kitchen,246
+Yash Bansal,#188,44,Male,Suburban,73072,Fashion,2092,Apparel,176
+Nisha Verma,#189,26,Female,Urban,110106,Sports,2343,Home & Kitchen,317
+Kavya Ghosh,#190,54,Male,Urban,103820,Sports,406,Books,131
+Rahul Iyer,#191,50,Female,Rural,104530,Technology,1787,Books,102
+Siddharth Chowdhury,#192,59,Male,Rural,43284,Technology,4209,Books,310
+Riya Bansal,#193,61,Female,Suburban,81330,Fashion,1960,Health & Beauty,292
+Manish Bansal,#194,41,Male,Rural,103369,Sports,2061,Apparel,495
+Sai Pandey,#195,32,Female,Rural,45122,Fashion,822,Apparel,361
+Pooja Patel,#196,49,Male,Urban,90553,Travel,879,Health & Beauty,338
+Meera Chauhan,#197,49,Female,Urban,101906,Fashion,628,Electronics,579
+Kavya Reddy,#198,41,Male,Suburban,114788,Food,4993,Books,10
+Anil Pandey,#199,58,Male,Rural,82812,Fashion,443,Books,49
+Radha Das,#200,29,Female,Rural,27999,Food,3886,Electronics,487
+Krishna Das,#201,56,Female,Urban,42436,Food,3782,Home & Kitchen,321
+Siddharth Reddy,#202,19,Male,Rural,62963,Food,308,Home & Kitchen,569
+Ananya Mehta,#203,20,Female,Urban,22096,Travel,4836,Apparel,133
+Arjun Verma,#204,54,Male,Suburban,149940,Fashion,3506,Health & Beauty,583
+Diya Mehta,#205,34,Male,Urban,133737,Fashion,1411,Apparel,83
+Lakshmi Bansal,#206,19,Male,Rural,45279,Travel,2399,Home & Kitchen,57
+Diya Verma,#207,19,Female,Suburban,141092,Sports,3436,Electronics,376
+Pooja Kumar,#208,45,Male,Urban,128899,Technology,2047,Apparel,349
+Neha Chowdhury,#209,40,Male,Urban,134245,Fashion,1019,Books,271
+Karan Yadav,#210,54,Female,Suburban,46201,Technology,2144,Books,483
+Aarav Joshi,#211,49,Female,Suburban,39715,Travel,518,Electronics,111
+Manish Kumar,#212,50,Female,Urban,49309,Sports,1849,Home & Kitchen,76
+Saanvi Pandey,#213,18,Female,Rural,35078,Sports,2942,Books,158
+Karan Chowdhury,#214,36,Male,Urban,76614,Sports,1199,Books,532
+Manish Reddy,#215,19,Male,Suburban,25105,Travel,3492,Health & Beauty,329
+Arjun Iyer,#216,61,Male,Urban,137666,Food,2872,Apparel,122
+Anil Mishra,#217,43,Male,Suburban,114848,Food,2580,Home & Kitchen,41
+Anil Chauhan,#218,49,Female,Suburban,22839,Technology,1645,Apparel,167
+Vikram Chowdhury,#219,23,Male,Rural,88920,Food,1170,Home & Kitchen,23
+Raj Yadav,#220,49,Male,Suburban,63619,Food,1950,Books,279
+Priya Kumar,#221,21,Female,Suburban,62821,Sports,4298,Health & Beauty,469
+Manish Reddy,#222,28,Male,Rural,145736,Sports,3039,Apparel,400
+Sunita Naidu,#223,34,Male,Suburban,33493,Technology,2003,Books,9
+Amit Sharma,#224,55,Male,Rural,37069,Fashion,778,Home & Kitchen,13
+Manish Mehta,#225,41,Male,Rural,132443,Technology,1088,Apparel,52
+Priya Chauhan,#226,22,Male,Suburban,27531,Technology,2575,Apparel,209
+Radha Chowdhury,#227,51,Male,Suburban,57051,Travel,1707,Books,550
+Yash Iyer,#228,23,Female,Urban,27736,Travel,2969,Apparel,402
+Ankit Reddy,#229,39,Female,Rural,27710,Technology,1602,Health & Beauty,191
+Ankit Ghosh,#230,28,Male,Urban,87155,Technology,1889,Health & Beauty,51
+Aarav Mishra,#231,33,Male,Suburban,33975,Technology,1525,Books,393
+Shreya Bansal,#232,50,Female,Urban,82424,Food,2540,Home & Kitchen,300
+Nisha Iyer,#233,26,Male,Rural,65603,Travel,2142,Books,196
+Nikhil Patel,#234,23,Male,Urban,43252,Technology,1378,Health & Beauty,417
+Sunita Patel,#235,33,Male,Rural,100797,Sports,2694,Electronics,420
+Aarti Bansal,#236,46,Female,Suburban,21431,Sports,4789,Electronics,522
+Kavya Ghosh,#237,20,Male,Suburban,94603,Food,2536,Apparel,356
+Neha Mehta,#238,37,Female,Rural,57481,Food,3903,Apparel,148
+Vivaan Iyer,#239,53,Male,Suburban,112573,Fashion,2305,Electronics,365
+Manish Bansal,#240,36,Female,Suburban,29557,Fashion,1127,Health & Beauty,364
+Nikhil Reddy,#241,43,Female,Suburban,94971,Fashion,3639,Apparel,402
+Diya Patel,#242,20,Male,Suburban,123302,Food,3583,Books,492
+Riya Pandey,#243,36,Female,Rural,20162,Food,2341,Books,229
+Vikram Yadav,#244,37,Male,Urban,54742,Food,2865,Health & Beauty,575
+Arjun Kumar,#245,49,Female,Urban,39675,Sports,1273,Apparel,537
+Karan Singh,#246,24,Male,Suburban,93997,Food,3330,Books,268
+Pooja Yadav,#247,58,Male,Urban,37015,Sports,3450,Apparel,405
+Sai Sharma,#248,50,Female,Urban,70057,Fashion,503,Apparel,11
+Aarav Singh,#249,57,Male,Suburban,52591,Fashion,2825,Books,320
+Nisha Bansal,#250,56,Male,Suburban,113583,Fashion,3482,Electronics,126
+Manish Singh,#251,35,Female,Urban,146133,Technology,4263,Books,306
+Nisha Bansal,#252,57,Male,Rural,120318,Technology,187,Health & Beauty,511
+Aanya Rao,#253,18,Male,Suburban,29833,Travel,1258,Home & Kitchen,89
+Sunita Chowdhury,#254,28,Female,Rural,27896,Travel,4373,Books,355
+Aarav Singh,#255,45,Female,Urban,52972,Travel,2957,Apparel,352
+Nikhil Reddy,#256,42,Male,Suburban,69733,Technology,1481,Apparel,14
+Shreya Patel,#257,40,Male,Rural,140363,Technology,4781,Books,257
+Sai Nair,#258,48,Female,Suburban,61800,Travel,2164,Home & Kitchen,209
+Aanya Nair,#259,47,Female,Urban,116044,Travel,2474,Books,281
+Aanya Iyer,#260,59,Male,Rural,25347,Food,417,Home & Kitchen,443
+Anil Yadav,#261,52,Female,Urban,79063,Travel,1602,Home & Kitchen,389
+Rahul Chauhan,#262,24,Male,Urban,115850,Food,2142,Health & Beauty,483
+Yash Bansal,#263,33,Male,Suburban,22643,Sports,4698,Apparel,147
+Sai Das,#264,43,Male,Rural,60785,Technology,2122,Apparel,279
+Arjun Ghosh,#265,19,Male,Urban,38681,Travel,218,Home & Kitchen,521
+Manish Joshi,#266,18,Male,Urban,70026,Technology,809,Apparel,434
+Nikhil Yadav,#267,29,Female,Rural,123864,Technology,3657,Electronics,144
+Isha Kumar,#268,22,Female,Urban,35892,Technology,4240,Home & Kitchen,289
+Krishna Reddy,#269,54,Female,Urban,67299,Sports,4509,Apparel,386
+Krishna Verma,#270,49,Female,Rural,37073,Fashion,3350,Electronics,14
+Kritika Kumar,#271,26,Male,Rural,122304,Travel,517,Health & Beauty,257
+Aanya Iyer,#272,58,Male,Rural,50682,Fashion,2703,Apparel,346
+Kritika Pandey,#273,52,Male,Rural,117798,Fashion,3954,Electronics,345
+Manish Pandey,#274,36,Male,Suburban,146021,Fashion,1201,Books,400
+Rohan Chauhan,#275,33,Female,Rural,116894,Technology,4521,Books,207
+Shreya Mehta,#276,20,Male,Suburban,144302,Food,3528,Electronics,172
+Aarti Singh,#277,37,Male,Suburban,34289,Technology,2361,Home & Kitchen,464
+Neha Kumar,#278,41,Female,Suburban,135359,Technology,4269,Home & Kitchen,270
+Radha Rao,#279,50,Female,Urban,27927,Fashion,3734,Apparel,221
+Shreya Chowdhury,#280,41,Female,Suburban,68330,Technology,608,Books,152
+Vikram Kumar,#281,28,Female,Suburban,86707,Fashion,2479,Home & Kitchen,183
+Manish Nair,#282,25,Male,Urban,140279,Food,3264,Home & Kitchen,399
+Kavya Chowdhury,#283,53,Male,Urban,97454,Travel,787,Books,72
+Radha Rao,#284,55,Female,Urban,127439,Fashion,4852,Health & Beauty,418
+Saanvi Chowdhury,#285,57,Male,Rural,124646,Food,1392,Home & Kitchen,283
+Isha Rao,#286,37,Male,Urban,85428,Travel,4005,Electronics,74
+Meera Rao,#287,52,Male,Urban,70601,Sports,3175,Apparel,355
+Kavya Kumar,#288,42,Female,Suburban,97465,Fashion,3309,Home & Kitchen,497
+Aarav Naidu,#289,52,Male,Urban,22539,Fashion,424,Home & Kitchen,328
+Pooja Patel,#290,42,Female,Rural,122263,Sports,2093,Health & Beauty,535
+Saanvi Joshi,#291,46,Male,Urban,131487,Sports,4076,Electronics,580
+Yash Rao,#292,35,Male,Rural,42669,Fashion,4912,Apparel,447
+Karan Patel,#293,63,Male,Urban,90968,Sports,2870,Home & Kitchen,373
+Pooja Iyer,#294,35,Female,Urban,40644,Technology,4472,Apparel,362
+Isha Yadav,#295,19,Male,Urban,38745,Travel,2683,Books,93
+Riya Singh,#296,52,Female,Urban,140852,Travel,3657,Home & Kitchen,321
+Yash Reddy,#297,33,Female,Rural,148081,Travel,3687,Home & Kitchen,324
+Diya Sharma,#298,58,Female,Rural,48228,Technology,251,Books,384
+Riya Yadav,#299,53,Male,Suburban,138358,Sports,1054,Health & Beauty,575
+Siddharth Ghosh,#300,50,Male,Rural,54521,Food,4454,Home & Kitchen,346
+Anil Reddy,#301,21,Male,Urban,142788,Sports,2471,Apparel,103
+Suresh Bansal,#302,50,Male,Suburban,117239,Fashion,1291,Electronics,215
+Sai Reddy,#303,31,Female,Suburban,46928,Travel,787,Apparel,192
+Meera Singh,#304,38,Female,Suburban,38322,Sports,409,Health & Beauty,194
+Vivaan Nair,#305,37,Female,Urban,77714,Food,1602,Electronics,380
+Arjun Yadav,#306,25,Male,Rural,107896,Fashion,3227,Apparel,403
+Sai Ghosh,#307,24,Female,Urban,82292,Technology,4668,Apparel,11
+Manish Joshi,#308,20,Male,Suburban,49055,Technology,3467,Books,187
+Pooja Joshi,#309,34,Female,Urban,62891,Food,3495,Health & Beauty,15
+Priya Mehta,#310,50,Male,Urban,101912,Fashion,913,Books,297
+Neha Mishra,#311,29,Male,Rural,26588,Travel,945,Electronics,411
+Anil Rao,#312,39,Female,Rural,110536,Sports,1264,Books,585
+Anil Iyer,#313,39,Female,Suburban,26304,Fashion,4862,Health & Beauty,52
+Vivaan Kumar,#314,63,Female,Urban,27345,Technology,1867,Home & Kitchen,28
+Manish Rao,#315,47,Female,Urban,49300,Food,454,Home & Kitchen,577
+Aditya Reddy,#316,55,Male,Rural,44259,Food,1972,Electronics,17
+Amit Rao,#317,55,Female,Urban,111006,Sports,2124,Home & Kitchen,351
+Aanya Bansal,#318,62,Female,Urban,108553,Food,2917,Books,428
+Pooja Singh,#319,25,Female,Urban,35352,Food,3932,Electronics,229
+Aditya Chowdhury,#320,44,Male,Rural,149350,Fashion,4375,Health & Beauty,210
+Rohan Rao,#321,44,Male,Suburban,53365,Travel,165,Electronics,431
+Raj Kumar,#322,51,Female,Suburban,39446,Sports,4366,Electronics,294
+Priya Pandey,#323,38,Male,Urban,22336,Fashion,4190,Apparel,582
+Rohan Mishra,#324,47,Female,Suburban,82032,Travel,2621,Apparel,104
+Sunita Pandey,#325,50,Male,Rural,95415,Fashion,2681,Electronics,204
+Amit Sharma,#326,45,Male,Rural,117852,Fashion,1490,Home & Kitchen,53
+Pooja Mehta,#327,64,Male,Suburban,118876,Food,1230,Apparel,375
+Siddharth Patel,#328,50,Male,Suburban,27521,Travel,2586,Health & Beauty,54
+Riya Iyer,#329,22,Female,Urban,91707,Sports,934,Books,276
+Anil Rao,#330,36,Female,Suburban,43481,Sports,326,Apparel,335
+Saanvi Kumar,#331,21,Female,Urban,38474,Travel,3615,Electronics,31
+Aarti Chowdhury,#332,52,Male,Urban,66760,Food,4637,Home & Kitchen,135
+Sunita Verma,#333,34,Female,Rural,75718,Technology,2543,Books,58
+Aarav Mishra,#334,61,Female,Rural,64629,Fashion,827,Apparel,105
+Shreya Naidu,#335,45,Female,Rural,65232,Food,3786,Home & Kitchen,266
+Sneha Mehta,#336,47,Male,Rural,106544,Travel,3722,Home & Kitchen,522
+Sai Patel,#337,46,Male,Suburban,87169,Fashion,1136,Home & Kitchen,496
+Rohan Patel,#338,63,Male,Rural,147941,Sports,1932,Electronics,253
+Lakshmi Pandey,#339,23,Female,Suburban,70669,Technology,2840,Health & Beauty,295
+Anil Iyer,#340,52,Female,Rural,98021,Sports,592,Home & Kitchen,158
+Neha Iyer,#341,58,Female,Suburban,129153,Travel,1648,Books,549
+Shreya Naidu,#342,54,Male,Urban,89184,Fashion,1243,Apparel,67
+Krishna Mehta,#343,41,Male,Suburban,67945,Travel,4057,Books,299
+Meera Chauhan,#344,46,Female,Suburban,33140,Fashion,3507,Electronics,463
+Riya Das,#345,63,Male,Rural,146468,Food,739,Electronics,101
+Neha Verma,#346,48,Male,Suburban,103457,Technology,272,Books,56
+Krishna Kumar,#347,52,Male,Urban,34357,Food,4454,Health & Beauty,332
+Ankit Naidu,#348,50,Male,Urban,131672,Food,4059,Electronics,393
+Shreya Das,#349,38,Female,Rural,88673,Travel,616,Electronics,381
+Suresh Verma,#350,49,Male,Urban,141673,Technology,622,Books,92
+Yash Yadav,#351,40,Male,Suburban,85633,Fashion,2017,Electronics,447
+Yash Mehta,#352,50,Male,Urban,96943,Fashion,2986,Health & Beauty,109
+Aanya Reddy,#353,20,Male,Rural,116111,Sports,2264,Health & Beauty,317
+Siddharth Sharma,#354,35,Female,Suburban,98258,Fashion,2029,Health & Beauty,168
+Sneha Chauhan,#355,42,Female,Rural,32924,Travel,4045,Apparel,435
+Siddharth Reddy,#356,59,Male,Suburban,89286,Food,2309,Health & Beauty,442
+Sneha Verma,#357,48,Male,Urban,113269,Food,3883,Health & Beauty,218
+Diya Das,#358,20,Male,Rural,147563,Food,2690,Apparel,222
+Ankit Reddy,#359,57,Male,Rural,94071,Technology,4176,Home & Kitchen,528
+Aarav Naidu,#360,63,Male,Suburban,77326,Fashion,1193,Electronics,278
+Radha Iyer,#361,41,Male,Rural,110023,Travel,3980,Health & Beauty,569
+Neha Singh,#362,49,Female,Suburban,140101,Technology,2594,Electronics,574
+Arjun Ghosh,#363,64,Male,Suburban,50651,Sports,2679,Books,466
+Sunita Patel,#364,39,Female,Suburban,90202,Travel,2588,Electronics,584
+Vihaan Reddy,#365,40,Female,Suburban,68777,Travel,2885,Apparel,30
+Vivaan Singh,#366,19,Male,Urban,36994,Travel,2858,Electronics,359
+Ankit Singh,#367,44,Female,Suburban,87263,Food,1674,Electronics,288
+Krishna Singh,#368,59,Female,Rural,79634,Travel,2473,Electronics,86
+Saanvi Yadav,#369,19,Female,Urban,120158,Fashion,4090,Home & Kitchen,234
+Rahul Mehta,#370,43,Female,Rural,30800,Travel,4945,Home & Kitchen,313
+Yash Mishra,#371,34,Female,Urban,57823,Food,1193,Books,365
+Diya Bansal,#372,57,Female,Suburban,128575,Travel,1289,Apparel,269
+Vihaan Patel,#373,50,Male,Urban,83878,Sports,2789,Electronics,131
+Rahul Iyer,#374,26,Female,Urban,38708,Sports,4195,Electronics,351
+Aarti Singh,#375,60,Female,Rural,32819,Food,1975,Electronics,180
+Aanya Patel,#376,56,Female,Rural,94905,Fashion,3506,Electronics,480
+Aarav Verma,#377,46,Male,Suburban,83870,Fashion,1887,Home & Kitchen,163
+Deepa Mishra,#378,59,Female,Urban,29283,Technology,4032,Books,96
+Vivaan Rao,#379,43,Male,Urban,50573,Food,1707,Health & Beauty,510
+Deepa Chowdhury,#380,52,Female,Urban,98707,Travel,3848,Apparel,365
+Shreya Bansal,#381,42,Male,Suburban,50933,Food,148,Electronics,353
+Vivaan Singh,#382,41,Male,Suburban,25774,Technology,3961,Books,436
+Suresh Chowdhury,#383,30,Female,Suburban,92055,Food,2280,Health & Beauty,83
+Neha Verma,#384,24,Female,Suburban,30983,Food,3146,Books,225
+Deepa Mishra,#385,53,Male,Suburban,116468,Technology,2933,Home & Kitchen,412
+Rohan Nair,#386,62,Female,Rural,116334,Fashion,1497,Health & Beauty,118
+Krishna Mehta,#387,37,Male,Urban,38133,Travel,3926,Books,482
+Sunita Chowdhury,#388,18,Male,Urban,145555,Technology,4674,Home & Kitchen,192
+Yash Chowdhury,#389,25,Male,Urban,34939,Sports,931,Books,591
+Lakshmi Chauhan,#390,63,Male,Urban,20781,Fashion,2797,Books,590
+Aarav Chowdhury,#391,33,Male,Urban,134586,Sports,4877,Health & Beauty,107
+Siddharth Yadav,#392,31,Female,Urban,76700,Fashion,2835,Home & Kitchen,382
+Meera Verma,#393,29,Male,Urban,47624,Travel,181,Electronics,390
+Sunita Chauhan,#394,40,Male,Urban,26823,Travel,186,Apparel,244
+Sunita Naidu,#395,32,Female,Rural,38489,Food,2163,Health & Beauty,585
+Amit Naidu,#396,45,Male,Urban,138555,Sports,921,Home & Kitchen,468
+Rahul Kumar,#397,51,Female,Rural,59961,Fashion,262,Books,538
+Arjun Joshi,#398,19,Female,Suburban,139664,Travel,3839,Home & Kitchen,210
+Karan Patel,#399,49,Female,Urban,49118,Technology,2497,Apparel,73
+Shreya Ghosh,#400,40,Male,Suburban,120417,Travel,2032,Apparel,309
+Karan Chauhan,#401,39,Male,Suburban,101816,Technology,2828,Electronics,590
+Saanvi Joshi,#402,42,Male,Suburban,42263,Fashion,3635,Electronics,186
+Anil Bansal,#403,39,Female,Rural,33565,Travel,3546,Apparel,253
+Lakshmi Verma,#404,39,Male,Suburban,40354,Travel,2890,Health & Beauty,13
+Pooja Reddy,#405,59,Female,Suburban,62951,Fashion,2807,Health & Beauty,299
+Vikram Sharma,#406,23,Male,Suburban,111179,Travel,4033,Books,76
+Kavya Singh,#407,32,Female,Urban,43648,Technology,3485,Electronics,51
+Aarav Iyer,#408,60,Male,Urban,70729,Travel,1022,Books,149
+Saanvi Chowdhury,#409,54,Male,Rural,61971,Sports,2275,Electronics,122
+Aditya Reddy,#410,50,Male,Rural,38658,Food,1682,Apparel,211
+Vivaan Pandey,#411,25,Female,Urban,41253,Technology,664,Health & Beauty,280
+Saanvi Reddy,#412,61,Female,Rural,84166,Sports,3358,Health & Beauty,538
+Arjun Naidu,#413,61,Male,Urban,68563,Fashion,2697,Apparel,156
+Sunita Singh,#414,22,Male,Suburban,46390,Technology,2600,Books,238
+Kavya Das,#415,56,Female,Suburban,108664,Food,4666,Books,376
+Amit Singh,#416,21,Female,Rural,71578,Food,1087,Home & Kitchen,82
+Arjun Reddy,#417,23,Female,Urban,99025,Fashion,3736,Electronics,492
+Sneha Rao,#418,62,Male,Urban,123850,Fashion,323,Books,356
+Ankit Ghosh,#419,49,Female,Rural,52658,Technology,450,Apparel,273
+Diya Verma,#420,47,Male,Urban,26852,Travel,2028,Books,580
+Rahul Nair,#421,64,Female,Suburban,147282,Fashion,448,Health & Beauty,44
+Radha Singh,#422,52,Male,Rural,114986,Travel,4377,Electronics,573
+Siddharth Singh,#423,57,Female,Rural,22551,Sports,4832,Home & Kitchen,123
+Sneha Mehta,#424,33,Female,Urban,91947,Food,1117,Electronics,349
+Aarav Ghosh,#425,30,Female,Rural,81001,Travel,2326,Health & Beauty,330
+Manish Das,#426,59,Female,Urban,69159,Food,4967,Health & Beauty,409
+Rohan Reddy,#427,47,Female,Urban,142775,Travel,4224,Health & Beauty,323
+Pooja Sharma,#428,36,Male,Urban,71707,Sports,2519,Health & Beauty,111
+Krishna Yadav,#429,34,Female,Urban,53243,Fashion,1993,Apparel,89
+Shreya Pandey,#430,36,Female,Urban,41800,Sports,3140,Home & Kitchen,433
+Aditya Joshi,#431,45,Female,Rural,95939,Fashion,2168,Health & Beauty,99
+Neha Das,#432,43,Male,Suburban,77828,Fashion,1225,Health & Beauty,539
+Yash Yadav,#433,54,Female,Suburban,27239,Food,3217,Books,146
+Deepa Chauhan,#434,43,Male,Rural,26710,Sports,4261,Home & Kitchen,257
+Rohan Rao,#435,40,Female,Rural,41384,Travel,4142,Electronics,189
+Shreya Naidu,#436,26,Female,Suburban,41038,Sports,4533,Home & Kitchen,240
+Shreya Joshi,#437,29,Male,Suburban,60846,Food,2270,Home & Kitchen,503
+Isha Chowdhury,#438,18,Female,Suburban,107983,Fashion,546,Home & Kitchen,271
+Kritika Das,#439,18,Male,Suburban,87821,Food,2758,Health & Beauty,520
+Aanya Joshi,#440,64,Male,Suburban,57991,Technology,3462,Health & Beauty,550
+Arjun Yadav,#441,51,Female,Urban,99057,Technology,2818,Apparel,114
+Karan Rao,#442,49,Male,Rural,133193,Travel,3583,Electronics,339
+Aanya Nair,#443,42,Female,Urban,26971,Food,3044,Books,568
+Priya Kumar,#444,57,Female,Suburban,49139,Travel,4476,Home & Kitchen,359
+Neha Chowdhury,#445,62,Male,Suburban,105445,Travel,695,Electronics,334
+Suresh Ghosh,#446,18,Male,Suburban,97067,Technology,2086,Electronics,169
+Meera Das,#447,33,Male,Urban,100257,Travel,2850,Apparel,339
+Aditya Ghosh,#448,56,Male,Urban,104742,Technology,1174,Books,261
+Arjun Singh,#449,22,Female,Suburban,57711,Fashion,4069,Home & Kitchen,199
+Pooja Ghosh,#450,39,Female,Urban,26530,Food,4405,Books,211
+Sneha Mehta,#451,46,Male,Urban,31116,Travel,4321,Apparel,287
+Suresh Singh,#452,20,Female,Suburban,85794,Technology,4687,Health & Beauty,472
+Aarav Joshi,#453,29,Female,Urban,20282,Sports,3680,Electronics,482
+Aanya Iyer,#454,43,Female,Rural,99473,Travel,3107,Home & Kitchen,23
+Karan Joshi,#455,33,Female,Rural,21898,Fashion,1069,Health & Beauty,560
+Nisha Pandey,#456,54,Male,Rural,24135,Fashion,680,Apparel,109
+Ananya Iyer,#457,39,Male,Rural,26629,Sports,2924,Books,296
+Raj Chauhan,#458,46,Female,Suburban,129472,Technology,4101,Electronics,6
+Saanvi Patel,#459,31,Male,Suburban,145147,Travel,1311,Home & Kitchen,550
+Rohan Rao,#460,45,Male,Suburban,105120,Technology,329,Health & Beauty,203
+Suresh Verma,#461,22,Male,Rural,139798,Fashion,4384,Health & Beauty,325
+Pooja Sharma,#462,64,Female,Rural,109087,Technology,3285,Electronics,244
+Diya Bansal,#463,47,Female,Urban,85031,Fashion,601,Books,327
+Anil Nair,#464,63,Female,Urban,53380,Technology,2232,Apparel,47
+Rahul Bansal,#465,22,Male,Rural,149951,Sports,148,Books,591
+Vikram Mishra,#466,29,Female,Rural,132507,Food,3666,Books,13
+Vikram Nair,#467,33,Female,Rural,37071,Sports,3155,Books,380
+Riya Joshi,#468,43,Male,Rural,40074,Sports,788,Electronics,365
+Ankit Bansal,#469,43,Female,Urban,110724,Food,486,Electronics,342
+Raj Rao,#470,38,Female,Rural,87843,Food,1069,Apparel,221
+Aarav Pandey,#471,56,Male,Urban,59901,Travel,3560,Books,73
+Krishna Chowdhury,#472,53,Male,Rural,31205,Travel,1105,Electronics,46
+Nisha Sharma,#473,50,Male,Rural,75661,Sports,3152,Apparel,504
+Riya Das,#474,47,Female,Rural,144661,Sports,3517,Apparel,274
+Rahul Kumar,#475,54,Female,Urban,25906,Fashion,2402,Books,555
+Manish Joshi,#476,40,Female,Urban,22591,Fashion,2383,Home & Kitchen,208
+Aarti Nair,#477,27,Male,Suburban,145576,Travel,1707,Books,124
+Karan Singh,#478,22,Male,Rural,82987,Travel,4466,Home & Kitchen,10
+Ananya Das,#479,53,Female,Suburban,83370,Fashion,222,Apparel,329
+Nisha Iyer,#480,51,Female,Suburban,100685,Fashion,1380,Electronics,187
+Diya Iyer,#481,48,Male,Urban,130454,Technology,3827,Health & Beauty,543
+Vikram Mishra,#482,27,Male,Urban,125487,Technology,358,Apparel,60
+Karan Kumar,#483,36,Male,Suburban,74400,Fashion,1047,Electronics,442
+Riya Reddy,#484,49,Male,Rural,45150,Technology,624,Apparel,217
+Ananya Verma,#485,18,Female,Urban,51852,Food,987,Books,2
+Meera Patel,#486,22,Male,Rural,62870,Travel,307,Home & Kitchen,536
+Kritika Patel,#487,62,Female,Rural,139796,Travel,3482,Apparel,356
+Deepa Naidu,#488,21,Female,Suburban,72756,Fashion,2894,Electronics,165
+Sunita Ghosh,#489,33,Female,Suburban,135357,Sports,248,Books,91
+Rahul Kumar,#490,41,Male,Suburban,139052,Fashion,537,Health & Beauty,167
+Nikhil Bansal,#491,33,Male,Suburban,76481,Technology,2302,Books,207
+Aditya Iyer,#492,19,Male,Urban,21283,Sports,3849,Home & Kitchen,282
+Vivaan Mishra,#493,45,Male,Urban,53691,Technology,3261,Books,65
+Saanvi Naidu,#494,49,Female,Suburban,21125,Food,4001,Health & Beauty,516
+Manish Pandey,#495,44,Male,Urban,87065,Technology,4553,Electronics,157
+Raj Patel,#496,37,Male,Suburban,148734,Food,3345,Apparel,306
+Amit Chowdhury,#497,41,Female,Rural,46170,Food,4651,Home & Kitchen,395
+Kavya Iyer,#498,29,Male,Rural,28438,Technology,2923,Health & Beauty,74
+Diya Naidu,#499,52,Female,Rural,40095,Technology,4824,Home & Kitchen,187
+Yash Iyer,#500,50,Female,Suburban,36154,Food,3370,Books,574
+Lakshmi Chowdhury,#501,50,Female,Rural,28004,Sports,585,Home & Kitchen,337
+Siddharth Patel,#502,60,Female,Urban,29752,Food,299,Health & Beauty,568
+Rahul Sharma,#503,54,Female,Rural,75426,Travel,4566,Apparel,240
+Vivaan Iyer,#504,29,Female,Rural,128896,Food,2082,Apparel,533
+Ananya Yadav,#505,20,Female,Rural,46819,Sports,1571,Home & Kitchen,141
+Anil Ghosh,#506,18,Female,Urban,122168,Travel,4443,Electronics,265
+Ananya Naidu,#507,50,Male,Suburban,112051,Fashion,4983,Home & Kitchen,139
+Aarav Joshi,#508,57,Male,Urban,147905,Fashion,2411,Books,459
+Rohan Joshi,#509,27,Male,Suburban,44217,Sports,3473,Apparel,70
+Pooja Rao,#510,60,Male,Suburban,145949,Food,2178,Apparel,385
+Meera Patel,#511,61,Female,Rural,108708,Technology,1621,Apparel,198
+Aarav Singh,#512,46,Male,Suburban,52994,Sports,704,Electronics,205
+Nikhil Chauhan,#513,30,Female,Urban,35036,Travel,3948,Electronics,568
+Anil Reddy,#514,29,Male,Urban,97275,Travel,3442,Health & Beauty,431
+Vivaan Ghosh,#515,48,Male,Suburban,117756,Fashion,1517,Home & Kitchen,325
+Meera Joshi,#516,63,Male,Rural,69416,Travel,4697,Home & Kitchen,442
+Arjun Das,#517,19,Female,Rural,29587,Sports,3975,Books,288
+Sai Ghosh,#518,52,Male,Urban,130053,Travel,3033,Apparel,226
+Diya Iyer,#519,40,Female,Rural,115665,Sports,648,Electronics,64
+Vihaan Bansal,#520,34,Female,Suburban,20645,Technology,938,Books,560
+Siddharth Pandey,#521,43,Male,Suburban,50930,Fashion,3915,Books,498
+Manish Sharma,#522,25,Male,Urban,101835,Travel,947,Electronics,60
+Suresh Bansal,#523,46,Male,Suburban,142232,Sports,4809,Home & Kitchen,397
+Aditya Chowdhury,#524,43,Female,Urban,50090,Food,4607,Apparel,257
+Diya Singh,#525,27,Male,Suburban,107489,Fashion,4873,Home & Kitchen,577
+Aarav Rao,#526,43,Female,Urban,72142,Technology,4354,Books,239
+Amit Reddy,#527,51,Female,Rural,131979,Sports,4568,Apparel,38
+Manish Rao,#528,58,Male,Suburban,46475,Technology,2372,Health & Beauty,25
+Priya Singh,#529,24,Male,Suburban,38888,Technology,3420,Books,410
+Shreya Joshi,#530,21,Female,Urban,63732,Travel,2658,Home & Kitchen,461
+Anil Iyer,#531,62,Female,Urban,101623,Travel,4798,Home & Kitchen,571
+Ananya Chauhan,#532,28,Female,Suburban,66305,Sports,4411,Home & Kitchen,417
+Nikhil Rao,#533,46,Male,Urban,66037,Food,2096,Electronics,357
+Aarav Patel,#534,53,Female,Suburban,29346,Sports,3773,Books,383
+Amit Yadav,#535,42,Male,Rural,20587,Food,1664,Apparel,158
+Deepa Reddy,#536,38,Female,Urban,32763,Technology,4118,Home & Kitchen,569
+Arjun Patel,#537,53,Female,Suburban,79165,Fashion,1940,Home & Kitchen,433
+Diya Das,#538,27,Male,Rural,127481,Sports,3391,Electronics,48
+Kritika Chauhan,#539,54,Female,Rural,89615,Sports,2987,Apparel,328
+Rohan Chowdhury,#540,26,Male,Suburban,56116,Food,826,Books,433
+Amit Sharma,#541,41,Male,Urban,140987,Technology,1344,Health & Beauty,431
+Sunita Yadav,#542,52,Female,Suburban,105751,Technology,3560,Electronics,56
+Shreya Verma,#543,52,Male,Rural,111353,Food,3818,Books,577
+Aarav Chowdhury,#544,53,Male,Suburban,110301,Technology,1165,Health & Beauty,268
+Diya Das,#545,35,Female,Urban,115648,Travel,4871,Home & Kitchen,69
+Aanya Naidu,#546,56,Male,Rural,45556,Fashion,382,Home & Kitchen,449
+Krishna Reddy,#547,49,Male,Suburban,79042,Sports,1181,Apparel,257
+Amit Verma,#548,41,Male,Urban,38099,Fashion,3985,Health & Beauty,490
+Pooja Nair,#549,40,Female,Rural,129089,Sports,2981,Home & Kitchen,49
+Lakshmi Joshi,#550,49,Male,Urban,65096,Travel,2684,Home & Kitchen,316
+Sneha Ghosh,#551,54,Female,Rural,91986,Technology,3070,Apparel,413
+Deepa Verma,#552,29,Female,Suburban,33230,Food,1252,Books,434
+Aanya Chauhan,#553,30,Male,Urban,49009,Travel,3597,Home & Kitchen,2
+Aditya Mishra,#554,40,Male,Rural,90969,Fashion,1047,Electronics,145
+Ananya Bansal,#555,42,Male,Urban,53866,Food,4860,Electronics,366
+Diya Pandey,#556,52,Female,Urban,125400,Technology,1817,Books,420
+Sneha Nair,#557,58,Male,Suburban,104246,Travel,166,Health & Beauty,573
+Kritika Rao,#558,47,Male,Urban,96975,Food,736,Apparel,561
+Sneha Ghosh,#559,34,Male,Rural,61855,Travel,413,Electronics,444
+Rahul Reddy,#560,37,Male,Rural,101557,Travel,3497,Electronics,434
+Anil Patel,#561,42,Male,Rural,26416,Technology,664,Books,555
+Anil Mehta,#562,39,Female,Rural,92516,Sports,1701,Health & Beauty,57
+Manish Patel,#563,30,Female,Suburban,75915,Food,925,Health & Beauty,562
+Saanvi Joshi,#564,36,Male,Urban,38058,Technology,3770,Books,178
+Ankit Iyer,#565,53,Male,Suburban,96637,Travel,1125,Electronics,293
+Sai Verma,#566,29,Male,Urban,60718,Technology,2351,Apparel,46
+Priya Reddy,#567,58,Male,Urban,52602,Sports,4857,Electronics,170
+Vihaan Naidu,#568,36,Female,Urban,94658,Food,904,Health & Beauty,271
+Sneha Naidu,#569,29,Male,Suburban,98112,Sports,2551,Electronics,417
+Vihaan Ghosh,#570,26,Female,Urban,78067,Fashion,4731,Apparel,139
+Kritika Patel,#571,24,Female,Suburban,47516,Food,1491,Home & Kitchen,247
+Isha Rao,#572,45,Male,Rural,149295,Sports,1335,Electronics,148
+Krishna Rao,#573,31,Female,Rural,107969,Travel,4132,Books,230
+Ananya Patel,#574,48,Female,Urban,21089,Food,3380,Home & Kitchen,374
+Aanya Reddy,#575,36,Female,Suburban,57346,Food,4823,Books,80
+Sunita Naidu,#576,64,Female,Rural,94663,Technology,4944,Books,65
+Radha Ghosh,#577,33,Male,Suburban,30487,Travel,3649,Books,88
+Aditya Pandey,#578,22,Male,Suburban,20155,Fashion,4300,Electronics,88
+Neha Naidu,#579,52,Female,Urban,143950,Sports,4241,Health & Beauty,204
+Riya Chauhan,#580,29,Male,Rural,87494,Technology,1454,Home & Kitchen,382
+Yash Naidu,#581,42,Male,Urban,96229,Sports,1936,Apparel,476
+Ananya Yadav,#582,38,Male,Urban,124648,Fashion,2992,Health & Beauty,573
+Aarav Das,#583,53,Male,Rural,58547,Fashion,2596,Electronics,539
+Deepa Rao,#584,40,Male,Rural,48795,Food,2683,Books,214
+Kavya Das,#585,33,Female,Suburban,75296,Fashion,2658,Apparel,74
+Kavya Yadav,#586,56,Male,Rural,41447,Sports,3718,Home & Kitchen,61
+Kavya Pandey,#587,62,Male,Suburban,56598,Travel,1659,Health & Beauty,543
+Aarti Yadav,#588,59,Male,Suburban,61814,Travel,1607,Health & Beauty,219
+Manish Mishra,#589,56,Male,Suburban,110751,Food,4171,Apparel,12
+Ananya Iyer,#590,31,Female,Rural,145118,Sports,2163,Electronics,415
+Meera Sharma,#591,48,Female,Urban,95330,Sports,3742,Home & Kitchen,32
+Raj Joshi,#592,22,Female,Suburban,141347,Fashion,2100,Apparel,160
+Raj Singh,#593,52,Female,Urban,118745,Sports,1394,Books,237
+Raj Naidu,#594,40,Male,Urban,107960,Technology,4165,Home & Kitchen,181
+Yash Rao,#595,46,Female,Rural,83278,Fashion,2852,Health & Beauty,558
+Meera Mehta,#596,60,Male,Urban,75077,Technology,1853,Apparel,341
+Amit Naidu,#597,28,Male,Urban,132782,Food,4310,Health & Beauty,458
+Sneha Patel,#598,35,Male,Rural,142046,Travel,1703,Health & Beauty,80
+Sunita Das,#599,64,Male,Suburban,122932,Food,1422,Health & Beauty,473
+Deepa Bansal,#600,29,Male,Urban,91906,Travel,2541,Electronics,112
+Nikhil Patel,#601,26,Female,Rural,29528,Food,1198,Health & Beauty,292
+Vivaan Naidu,#602,27,Female,Urban,113812,Sports,1605,Books,383
+Isha Iyer,#603,61,Female,Urban,70100,Technology,1226,Books,17
+Sai Singh,#604,34,Female,Suburban,129869,Travel,396,Home & Kitchen,493
+Sunita Sharma,#605,55,Male,Urban,28179,Fashion,3149,Health & Beauty,331
+Krishna Verma,#606,24,Female,Rural,68781,Technology,2325,Health & Beauty,486
+Lakshmi Das,#607,63,Male,Urban,75267,Fashion,4454,Apparel,406
+Riya Mehta,#608,30,Female,Suburban,102379,Technology,3887,Electronics,117
+Amit Rao,#609,57,Male,Suburban,43952,Technology,2196,Home & Kitchen,555
+Rahul Yadav,#610,59,Male,Rural,73798,Food,3709,Health & Beauty,115
+Diya Pandey,#611,26,Female,Suburban,118696,Travel,2308,Apparel,549
+Sunita Chowdhury,#612,44,Male,Urban,130434,Travel,275,Electronics,547
+Radha Nair,#613,19,Male,Suburban,70939,Technology,2602,Home & Kitchen,336
+Yash Yadav,#614,22,Female,Rural,49516,Sports,4099,Home & Kitchen,336
+Rohan Joshi,#615,46,Male,Suburban,76526,Sports,1767,Health & Beauty,147
+Radha Ghosh,#616,54,Female,Suburban,30449,Fashion,4471,Home & Kitchen,122
+Arjun Mishra,#617,55,Female,Suburban,70290,Fashion,2645,Apparel,81
+Nikhil Iyer,#618,36,Female,Rural,146688,Food,775,Home & Kitchen,375
+Aarti Ghosh,#619,25,Male,Suburban,106661,Technology,1923,Books,570
+Rahul Verma,#620,62,Male,Suburban,92954,Fashion,1456,Apparel,63
+Ankit Naidu,#621,18,Male,Urban,42746,Fashion,3172,Electronics,504
+Suresh Singh,#622,39,Female,Rural,87990,Technology,3359,Electronics,449
+Riya Sharma,#623,34,Male,Suburban,78810,Food,646,Health & Beauty,428
+Suresh Joshi,#624,24,Female,Rural,138362,Fashion,2183,Health & Beauty,427
+Deepa Reddy,#625,42,Female,Suburban,103297,Food,2140,Books,421
+Radha Pandey,#626,62,Male,Suburban,35223,Travel,4634,Electronics,322
+Siddharth Verma,#627,21,Female,Suburban,92237,Food,1852,Electronics,166
+Priya Rao,#628,53,Male,Urban,22597,Sports,1715,Electronics,597
+Krishna Ghosh,#629,23,Male,Urban,85677,Sports,1949,Electronics,461
+Isha Chauhan,#630,48,Male,Urban,22659,Food,2742,Home & Kitchen,459
+Rahul Joshi,#631,36,Male,Rural,106516,Sports,1700,Apparel,189
+Aarti Kumar,#632,61,Male,Rural,94567,Travel,3496,Apparel,464
+Aarav Verma,#633,56,Female,Urban,35037,Technology,4502,Books,379
+Raj Das,#634,44,Female,Rural,146498,Sports,3705,Home & Kitchen,2
+Vivaan Joshi,#635,27,Female,Suburban,66738,Sports,3899,Electronics,364
+Rohan Ghosh,#636,43,Male,Suburban,123965,Food,718,Electronics,72
+Meera Kumar,#637,36,Male,Suburban,91678,Travel,1232,Health & Beauty,427
+Saanvi Mishra,#638,56,Male,Urban,32109,Technology,2215,Health & Beauty,170
+Aanya Bansal,#639,20,Female,Rural,42010,Food,2439,Books,205
+Yash Patel,#640,62,Male,Urban,28787,Food,2839,Electronics,337
+Anil Singh,#641,30,Female,Rural,128400,Travel,4376,Books,472
+Vihaan Chauhan,#642,45,Female,Suburban,28472,Technology,1587,Home & Kitchen,195
+Raj Mehta,#643,37,Male,Urban,135111,Travel,1657,Apparel,275
+Diya Iyer,#644,45,Male,Rural,43383,Technology,2213,Electronics,7
+Rahul Mishra,#645,25,Female,Rural,81709,Travel,1144,Home & Kitchen,566
+Sunita Mishra,#646,58,Male,Suburban,89785,Food,2531,Electronics,573
+Krishna Bansal,#647,56,Female,Urban,133253,Food,1682,Health & Beauty,599
+Karan Iyer,#648,18,Male,Urban,54518,Fashion,1408,Books,178
+Isha Yadav,#649,20,Male,Urban,73909,Sports,701,Health & Beauty,242
+Deepa Yadav,#650,30,Female,Suburban,38351,Travel,1720,Apparel,203
+Radha Verma,#651,45,Male,Urban,89624,Fashion,4980,Health & Beauty,543
+Rahul Naidu,#652,42,Female,Suburban,73330,Sports,4866,Electronics,462
+Arjun Rao,#653,50,Male,Suburban,142477,Travel,200,Health & Beauty,80
+Vihaan Reddy,#654,55,Female,Suburban,35282,Technology,4371,Electronics,523
+Diya Iyer,#655,23,Female,Rural,104866,Sports,337,Apparel,417
+Saanvi Iyer,#656,61,Male,Urban,127945,Food,4125,Health & Beauty,384
+Vivaan Reddy,#657,62,Female,Urban,41778,Fashion,3018,Books,391
+Vihaan Singh,#658,49,Male,Suburban,44264,Sports,2642,Books,126
+Vivaan Kumar,#659,62,Male,Suburban,79675,Sports,2103,Books,494
+Vihaan Kumar,#660,64,Male,Urban,25075,Food,1637,Health & Beauty,47
+Nikhil Pandey,#661,38,Female,Suburban,95948,Travel,854,Health & Beauty,476
+Yash Chauhan,#662,33,Female,Urban,68454,Technology,3468,Health & Beauty,464
+Meera Joshi,#663,38,Male,Rural,48365,Food,2358,Electronics,123
+Aarti Chauhan,#664,28,Male,Suburban,92766,Technology,3765,Apparel,474
+Shreya Nair,#665,54,Female,Urban,68200,Travel,4335,Books,134
+Pooja Chauhan,#666,53,Male,Suburban,31002,Sports,640,Electronics,562
+Diya Chowdhury,#667,52,Male,Urban,33947,Technology,369,Books,23
+Yash Yadav,#668,36,Female,Urban,99222,Fashion,3560,Electronics,566
+Rohan Singh,#669,37,Male,Suburban,114840,Fashion,3508,Health & Beauty,235
+Ananya Mishra,#670,35,Female,Rural,136219,Food,605,Books,59
+Isha Nair,#671,64,Male,Urban,98610,Travel,1229,Health & Beauty,164
+Nikhil Das,#672,58,Female,Urban,72142,Food,2179,Books,216
+Riya Joshi,#673,31,Male,Urban,76307,Food,3245,Home & Kitchen,183
+Vihaan Mishra,#674,32,Male,Rural,24493,Food,3342,Electronics,569
+Kavya Nair,#675,48,Female,Rural,144023,Fashion,461,Home & Kitchen,90
+Raj Reddy,#676,18,Male,Suburban,70085,Fashion,3820,Electronics,311
+Raj Singh,#677,20,Female,Rural,54228,Food,1556,Apparel,557
+Rohan Kumar,#678,33,Male,Suburban,99676,Fashion,4167,Books,257
+Amit Chauhan,#679,40,Female,Suburban,71875,Travel,4295,Apparel,533
+Ankit Singh,#680,28,Female,Rural,51655,Food,1781,Apparel,533
+Vikram Joshi,#681,29,Female,Suburban,63472,Fashion,1152,Electronics,52
+Raj Nair,#682,27,Female,Rural,69437,Technology,2609,Home & Kitchen,338
+Sunita Ghosh,#683,49,Male,Suburban,69416,Food,4827,Health & Beauty,171
+Kritika Sharma,#684,33,Male,Rural,79711,Food,781,Electronics,67
+Nikhil Bansal,#685,25,Female,Rural,26816,Travel,4032,Health & Beauty,300
+Karan Ghosh,#686,55,Female,Suburban,97175,Sports,2229,Apparel,232
+Diya Reddy,#687,29,Female,Urban,84307,Sports,4949,Health & Beauty,68
+Shreya Pandey,#688,41,Male,Suburban,132728,Travel,4116,Home & Kitchen,506
+Saanvi Naidu,#689,45,Male,Rural,66733,Travel,3402,Electronics,28
+Suresh Yadav,#690,25,Male,Urban,148202,Travel,819,Home & Kitchen,51
+Karan Chowdhury,#691,45,Male,Suburban,115028,Sports,174,Home & Kitchen,260
+Riya Singh,#692,53,Female,Suburban,136450,Travel,1393,Electronics,591
+Siddharth Chowdhury,#693,43,Female,Suburban,31240,Fashion,2022,Home & Kitchen,586
+Vihaan Yadav,#694,25,Female,Urban,118234,Food,4257,Books,184
+Sneha Ghosh,#695,45,Male,Rural,112493,Food,419,Books,23
+Siddharth Joshi,#696,45,Male,Suburban,145149,Technology,2249,Books,129
+Kritika Chauhan,#697,54,Male,Suburban,118344,Technology,1552,Health & Beauty,291
+Aarti Joshi,#698,58,Female,Suburban,91363,Food,1655,Home & Kitchen,501
+Raj Rao,#699,53,Female,Suburban,52762,Fashion,4307,Electronics,186
+Radha Nair,#700,44,Male,Suburban,28259,Sports,3132,Electronics,479
+Rohan Reddy,#701,34,Female,Rural,70139,Sports,560,Health & Beauty,571
+Aarav Rao,#702,26,Male,Rural,148775,Fashion,986,Electronics,492
+Saanvi Chauhan,#703,50,Male,Suburban,34849,Sports,3633,Books,513
+Neha Verma,#704,37,Female,Urban,101768,Travel,4036,Home & Kitchen,67
+Ananya Patel,#705,30,Male,Rural,126108,Food,1215,Electronics,467
+Lakshmi Joshi,#706,45,Female,Urban,109709,Food,1175,Electronics,285
+Raj Rao,#707,46,Male,Rural,74869,Fashion,3976,Apparel,417
+Manish Das,#708,30,Female,Suburban,146888,Sports,4715,Apparel,100
+Kavya Singh,#709,63,Female,Rural,83095,Technology,2024,Apparel,189
+Ankit Reddy,#710,52,Female,Suburban,137886,Technology,1026,Home & Kitchen,388
+Vivaan Chowdhury,#711,23,Male,Rural,90910,Sports,4752,Books,241
+Vikram Singh,#712,35,Male,Suburban,106710,Technology,2381,Books,417
+Arjun Joshi,#713,22,Female,Suburban,43567,Fashion,1155,Books,176
+Yash Iyer,#714,64,Female,Suburban,55292,Fashion,4774,Home & Kitchen,387
+Nisha Nair,#715,42,Male,Suburban,94813,Sports,641,Home & Kitchen,471
+Ankit Patel,#716,19,Male,Urban,117136,Technology,2261,Apparel,233
+Neha Rao,#717,27,Male,Suburban,71631,Fashion,2351,Electronics,452
+Suresh Singh,#718,47,Female,Urban,29885,Fashion,1152,Health & Beauty,277
+Meera Reddy,#719,62,Male,Urban,79659,Travel,4669,Health & Beauty,229
+Shreya Chauhan,#720,22,Male,Suburban,74306,Travel,2844,Electronics,171
+Aditya Reddy,#721,50,Female,Urban,86314,Fashion,3969,Apparel,213
+Saanvi Ghosh,#722,18,Male,Rural,85087,Sports,4581,Electronics,282
+Ankit Singh,#723,35,Male,Suburban,49165,Food,4257,Electronics,41
+Lakshmi Joshi,#724,49,Male,Urban,78929,Food,4710,Health & Beauty,122
+Suresh Iyer,#725,64,Female,Suburban,87028,Fashion,4625,Apparel,227
+Yash Das,#726,28,Female,Suburban,115998,Fashion,4775,Home & Kitchen,294
+Deepa Das,#727,38,Female,Suburban,69812,Fashion,1660,Health & Beauty,267
+Amit Rao,#728,43,Female,Urban,70500,Sports,3862,Home & Kitchen,541
+Raj Bansal,#729,42,Female,Rural,99151,Travel,1264,Apparel,451
+Ankit Singh,#730,39,Female,Rural,78643,Fashion,2822,Electronics,449
+Kritika Singh,#731,44,Female,Urban,64900,Fashion,2458,Books,61
+Priya Bansal,#732,30,Male,Suburban,62946,Technology,570,Books,502
+Vihaan Mishra,#733,50,Male,Urban,27851,Sports,1516,Apparel,147
+Isha Nair,#734,51,Female,Urban,36288,Fashion,1568,Books,334
+Lakshmi Nair,#735,58,Male,Urban,92692,Technology,908,Home & Kitchen,142
+Nisha Patel,#736,52,Male,Suburban,87580,Food,271,Books,44
+Suresh Ghosh,#737,18,Female,Urban,27368,Fashion,4226,Apparel,144
+Ananya Singh,#738,38,Male,Suburban,105436,Fashion,4242,Apparel,333
+Karan Bansal,#739,23,Male,Urban,116136,Technology,4325,Home & Kitchen,497
+Amit Singh,#740,45,Male,Rural,66403,Sports,2499,Books,396
+Shreya Verma,#741,34,Male,Urban,111170,Fashion,1745,Books,55
+Krishna Bansal,#742,22,Male,Urban,29168,Food,157,Electronics,307
+Pooja Mehta,#743,48,Female,Rural,106497,Fashion,1229,Health & Beauty,423
+Priya Chowdhury,#744,22,Female,Suburban,69879,Food,1453,Apparel,417
+Shreya Bansal,#745,55,Female,Suburban,79871,Travel,867,Electronics,325
+Riya Joshi,#746,20,Male,Urban,129632,Travel,3995,Apparel,80
+Meera Patel,#747,40,Female,Rural,131623,Food,782,Electronics,31
+Suresh Reddy,#748,54,Male,Suburban,109388,Sports,3554,Health & Beauty,112
+Nisha Sharma,#749,54,Male,Urban,118646,Fashion,2108,Electronics,558
+Rahul Pandey,#750,27,Male,Rural,52174,Fashion,3242,Apparel,564
+Isha Patel,#751,27,Male,Suburban,119751,Travel,1890,Books,472
+Vivaan Patel,#752,36,Female,Suburban,112491,Food,1577,Apparel,74
+Sai Bansal,#753,34,Female,Rural,26581,Fashion,985,Home & Kitchen,553
+Diya Reddy,#754,38,Male,Rural,130155,Fashion,4006,Home & Kitchen,479
+Shreya Pandey,#755,31,Female,Rural,91853,Sports,4592,Home & Kitchen,589
+Isha Rao,#756,26,Male,Rural,84046,Technology,1638,Home & Kitchen,387
+Aditya Kumar,#757,63,Female,Urban,69678,Travel,2173,Health & Beauty,564
+Sai Verma,#758,18,Female,Rural,128392,Travel,412,Books,433
+Arjun Bansal,#759,62,Male,Suburban,131250,Technology,910,Books,412
+Saanvi Singh,#760,30,Female,Suburban,46649,Fashion,2335,Apparel,467
+Vivaan Sharma,#761,21,Male,Urban,147795,Sports,2957,Electronics,599
+Aarav Patel,#762,18,Female,Suburban,108668,Sports,2863,Apparel,248
+Rohan Verma,#763,57,Male,Suburban,102325,Travel,2132,Apparel,581
+Deepa Verma,#764,49,Male,Rural,34567,Sports,1607,Apparel,120
+Meera Joshi,#765,51,Female,Suburban,100404,Technology,4645,Apparel,67
+Aditya Rao,#766,45,Female,Urban,109906,Fashion,2670,Books,573
+Krishna Reddy,#767,48,Male,Rural,128069,Technology,1994,Electronics,327
+Ankit Joshi,#768,25,Female,Rural,116019,Food,2805,Apparel,470
+Vivaan Iyer,#769,56,Female,Urban,81944,Travel,696,Books,493
+Priya Ghosh,#770,43,Male,Rural,138428,Sports,2247,Apparel,286
+Saanvi Bansal,#771,51,Male,Rural,98002,Food,715,Home & Kitchen,312
+Suresh Chowdhury,#772,20,Female,Urban,48803,Sports,1047,Apparel,309
+Neha Yadav,#773,29,Male,Rural,38230,Fashion,4751,Apparel,97
+Aarav Joshi,#774,18,Male,Urban,37862,Fashion,4473,Health & Beauty,113
+Sunita Pandey,#775,61,Male,Urban,63355,Fashion,3864,Home & Kitchen,456
+Neha Singh,#776,22,Female,Suburban,51259,Sports,2113,Electronics,463
+Shreya Naidu,#777,47,Female,Suburban,119075,Food,3797,Apparel,132
+Amit Mehta,#778,47,Male,Rural,107445,Fashion,590,Electronics,121
+Karan Yadav,#779,34,Female,Rural,50795,Food,4450,Home & Kitchen,197
+Pooja Rao,#780,64,Male,Urban,134604,Sports,2528,Apparel,482
+Priya Verma,#781,40,Female,Rural,28770,Food,641,Health & Beauty,39
+Karan Iyer,#782,32,Male,Urban,31093,Sports,1387,Books,566
+Rohan Mehta,#783,54,Male,Urban,66571,Sports,1733,Health & Beauty,512
+Rohan Singh,#784,38,Female,Rural,20193,Travel,3026,Health & Beauty,474
+Vihaan Das,#785,31,Male,Urban,120311,Sports,1452,Books,161
+Vihaan Ghosh,#786,19,Female,Suburban,37569,Sports,4476,Books,289
+Neha Chowdhury,#787,28,Female,Rural,137082,Technology,1398,Books,200
+Vihaan Ghosh,#788,56,Male,Suburban,31190,Fashion,4968,Apparel,528
+Siddharth Mehta,#789,55,Male,Rural,82824,Travel,4067,Electronics,503
+Aarav Chowdhury,#790,51,Female,Urban,62752,Travel,4523,Electronics,248
+Vikram Kumar,#791,55,Male,Rural,52327,Travel,2358,Books,383
+Kavya Das,#792,51,Male,Suburban,62070,Technology,4747,Health & Beauty,218
+Ananya Singh,#793,35,Male,Urban,105925,Sports,2173,Home & Kitchen,87
+Aarti Bansal,#794,47,Male,Rural,60197,Fashion,801,Books,82
+Karan Chowdhury,#795,32,Male,Rural,22261,Food,2019,Health & Beauty,62
