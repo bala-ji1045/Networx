@@ -74,13 +74,6 @@ compressed_embeddings = model.encoder(X_tensor).detach().numpy()
 app = FastAPI()
 from fastapi.middleware.cors import CORSMiddleware
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Or ["*"] for all origins (not recommended for production)
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
 @app.post("/recommend")
 def recommend(user: UserInput):
