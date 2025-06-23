@@ -77,7 +77,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Or ["*"] for all origins (not recommended for production)Add commentMore actions
+    allow_origins=["https://new-networx-1.onrender.com/"],  # Or ["*"] for all origins (not recommended for production)Add commentMore actions
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
